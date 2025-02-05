@@ -104,5 +104,11 @@
   <ItemGroup>
     <Resource Include="MainIcon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MainClasses\MainClasses.csproj">
+      <Project>{ad21f31f-dab5-470a-a5da-899c9b168a73}</Project>
+      <Name>MainClasses</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
