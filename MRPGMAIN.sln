@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRPGMAIN", "MRPGMAIN\MRPGMAIN.csproj", "{9C05E220-8F45-4E6B-BEC0-DB6453B6C695}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainClasses", "MainClasses\MainClasses.csproj", "{AD21F31F-DAB5-470A-A5DA-899C9B168A73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9C05E220-8F45-4E6B-BEC0-DB6453B6C695}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C05E220-8F45-4E6B-BEC0-DB6453B6C695}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C05E220-8F45-4E6B-BEC0-DB6453B6C695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD21F31F-DAB5-470A-A5DA-899C9B168A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD21F31F-DAB5-470A-A5DA-899C9B168A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD21F31F-DAB5-470A-A5DA-899C9B168A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD21F31F-DAB5-470A-A5DA-899C9B168A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
